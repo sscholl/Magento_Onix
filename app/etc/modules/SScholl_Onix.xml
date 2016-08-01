@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<SScholl_Onix>
+			<active>true</active>
+			<codePool>local</codePool>
+			<depends>
+				<Mage_Core />
+				<SScholl_Books />
+			</depends>
+		</SScholl_Onix>
+	</modules>
+</config>
